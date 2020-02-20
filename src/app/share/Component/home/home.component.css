@@ -1,0 +1,79 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.active {
+  background-color: #f76f6f;
+  padding: 0 10px;
+}
+
+.navbar-inner {
+  width: 100%;
+}
+
+.navbar-inner li {
+  z-index: 1;
+  line-height: 40px;
+  letter-spacing: 2px;
+}
+
+.brand {
+  letter-spacing: 4px;
+}
+
+.header {
+  background-color: #343a40;
+}
+
+.header a {
+  color: white;
+}
+
+.mb-0 {
+  height: 100%;
+  margin: 0 auto;
+}
+
+.mb-0 .container {
+  position: relative;
+  top: 30px;
+  width: 100%;
+  height: 150px;
+}
+
+.mb-0 .container .row .p-3 {
+  width: 95%;
+  margin: 2% 0;
+}
+
+.mb-0 .container .row .p-3 ul .float-left {
+  border-bottom: white 3px  solid;
+  padding-bottom: 5px;
+}
+
+.mb-0 .container .row .p-3 ul .float-leftli:hover {
+  border-bottom: #f76f6f 3px solid;
+}
+
+.mb-0 .container .row .p-3 ul .float-leftli:hover a {
+  color: #f76f6f;
+}
+
+.mb-0 .container .row .p-3 ul .float-left a {
+  color: white;
+}
+
+.mb-0 #item {
+  width: 100%;
+  background-color: white;
+  position: absolute;
+  top: 15vh;
+}
+/*# sourceMappingURL=home.component.css.map */

@@ -1,0 +1,24 @@
+[0112/201753.216:ERROR:process_info.cc(359)] UncheckedAllocate
+[0112/201753.342:ERROR:process_info.cc(359)] UncheckedAllocate
+[0113/163520.341:ERROR:process_info.cc(359)] UncheckedAllocate
+[0120/151348.649:ERROR:process_info.cc(359)] UncheckedAllocate
+[0120/151348.698:ERROR:process_info.cc(359)] UncheckedAllocate
+[0120/151348.721:ERROR:process_info.cc(359)] UncheckedAllocate
+[0120/151349.166:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0120/151349.167:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.167:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.167:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.167:ERROR:process_reader_win.cc(182)] ResumeThread: The parameter is incorrect. (0x57)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.169:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.170:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.170:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.177:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0120/151349.178:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)

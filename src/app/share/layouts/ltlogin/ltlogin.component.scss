@@ -1,0 +1,58 @@
+section{
+    .background_login_page{
+        .cover_black{
+    
+            background-color:rgba( #000000,  0.7);
+            z-index: 1;
+            width: 100%;
+            height: 100vh;
+    
+        }
+        background-image: url('../../img/person.jpg');
+        background-size: cover;
+    
+         height: 100vh;
+         width: 100%;
+             // overflow: hidden;
+             // position: absolute;
+             .container{
+                 .row{
+                     .text-light{
+                         background-color: rgb(247, 111, 111);
+                         position: absolute;
+                        //  top: -20%;
+                         z-index: 200;
+                         width: 80%;
+                        //  height: 20%; 
+                         margin: -26% 7% !important;
+                         padding: 20px;
+         
+                        }
+                     }
+                     .col-4{
+                         padding: 4% 1%;
+                         background-color: white;
+                        //  height:43vh;
+                         position: absolute;
+                         top: 10px;
+                         width: 100%;
+                         .btn{
+                             width: 100%;
+                         }
+                         .form-group{
+         label{
+             text-align: left;
+             
+         }                }
+                         position: absolute;
+                         top:0;
+                         text-align: center;
+                         margin: 8% 0 0 0;
+                         // align-content: center;
+                         z-index: 1000;
+                     }
+                     }
+                 }
+             
+             }
+    

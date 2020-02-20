@@ -1,0 +1,11 @@
+<div class="card m-3" style="width: 18rem;"  >
+  
+    <div class="card-body" *ngFor="let item of  dataset" >
+        <img src='{{item.img}}' alt="">
+      <h3 class="card-title">{{item.name}}</h3>
+      <span>{{item.desc}}</span>
+      <span>{{item.price}}</span>
+     <app-addcart ></app-addcart>
+   
+    </div>
+  </div>

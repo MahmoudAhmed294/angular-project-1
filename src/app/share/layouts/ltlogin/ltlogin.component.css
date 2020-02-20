@@ -1,0 +1,44 @@
+section .background_login_page {
+  background-image: url("../../img/person.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+section .background_login_page .cover_black {
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+  width: 100%;
+  height: 100vh;
+}
+
+section .background_login_page .container .row .text-light {
+  background-color: #f76f6f;
+  position: absolute;
+  z-index: 200;
+  width: 80%;
+  margin: -26% 7% !important;
+  padding: 20px;
+}
+
+section .background_login_page .container .col-4 {
+  padding: 4% 1%;
+  background-color: white;
+  position: absolute;
+  top: 10px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  text-align: center;
+  margin: 8% 0 0 0;
+  z-index: 1000;
+}
+
+section .background_login_page .container .col-4 .btn {
+  width: 100%;
+}
+
+section .background_login_page .container .col-4 .form-group label {
+  text-align: left;
+}
+/*# sourceMappingURL=ltlogin.component.css.map */
